@@ -1,0 +1,137 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability_%,valence_%,energy_%,acousticness_%,instrumentalness_%,liveness_%,speechiness_%,cover_url
+Flowers,Miley Cyrus,1,2023,1,12,12211,115,1316855716,300,215,745,58,"1,021",118,,Major,71,65,68,6,0,3,7,https://i.scdn.co/image/ab67616d0000b27358039b5147731b6e52202e46
+As It Was,Harry Styles,1,2022,3,31,23575,130,2513188493,403,198,863,46,,174,F#,Minor,52,66,73,34,0,31,6,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,1,2023,7,13,873,104,30546883,80,227,95,24,"1,173",78,,Major,44,14,9,96,0,10,3,Not Found
+I Wanna Be Yours,Arctic Monkeys,1,2013,1,1,12859,110,1297026226,24,98,582,2,73,135,,Minor,48,44,42,12,2,11,3,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+Los del Espacio,"Big One, Duki, Lit Killah, Maria Becerra, FMK, Rusherking, Emilia, Tiago pzk",8,2023,6,1,1150,31,123122413,22,33,34,7,184,120,,Major,81,63,68,11,0,11,4,Not Found
+Barbie World (with Aqua) [From Barbie The Album],"Nicki Minaj, Aqua, Ice Spice",3,2023,6,23,1117,80,65156199,82,145,65,16,"1,133",144,,Major,77,75,58,52,0,23,25,https://i.scdn.co/image/ab67616d0000b2737e8f938c02fac3b564931116
+I Ain't Worried,OneRepublic,1,2022,5,13,8431,76,1085685420,241,127,458,37,332,140,,Major,71,82,81,11,0,6,5,https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13
+Another Love,Tom Odell,1,2012,10,15,18371,83,1813673666,250,122,"3,394",19,,123,E,Minor,45,13,54,70,0,9,4,https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f
+Blinding Lights,The Weeknd,1,2019,11,29,43899,69,3703895074,672,199,"3,421",20,,171,C#,Major,50,38,80,0,0,9,7,https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36
+S91,Karol G,1,2023,7,14,525,41,16011326,34,115,39,6,216,128,,Minor,86,42,72,59,0,9,19,https://i.scdn.co/image/ab67616d0000b273890cfb712167a0186918644e
+cardigan,Taylor Swift,1,2020,7,24,7923,29,812019557,106,112,142,4,215,130,,Minor,61,53,58,55,0,27,4,https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc
+Heat Waves,Glass Animals,1,2020,6,28,22543,63,2557975762,386,144,707,28,,81,B,Major,76,53,53,44,0,9,9,https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464
+Sweater Weather,The Neighbourhood,1,2012,5,14,16413,61,2282771485,166,87,"1,056",1,,124,A#,Major,61,41,81,5,2,10,3,https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921
+Someone You Loved,Lewis Capaldi,1,2018,11,8,17836,53,2887241814,440,125,"1,800",0,,110,C#,Major,50,45,41,75,0,11,3,https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2
+Por las Noches,Peso Pluma,1,2021,6,11,457,24,330346424,8,116,4,3,2,92,,Major,81,39,60,31,0,7,3,https://i.scdn.co/image/ab67616d0000b273427d9aa38866b43ed45f6b0c
+Watermelon Sugar,Harry Styles,1,2019,11,17,21915,34,2322580122,437,115,"1,212",12,,95,,Major,55,56,82,12,0,34,5,https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a
+505,Arctic Monkeys,1,2007,4,20,13985,25,1217120710,30,80,588,1,1,140,,Major,52,20,85,0,0,7,5,https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90
+"Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)","Swae Lee, A Boogie Wit da Hoodie, Metro Boomin, NAV",4,2023,6,2,1051,16,109276132,31,37,31,0,189,140,,Major,63,22,54,46,0,12,8,https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f
+QUEMA,"Sog, Ryan Castro, Peso Pluma",3,2023,7,13,437,31,11599388,17,29,26,3,208,97,,Major,79,92,89,5,0,6,5,Not Found
+Bye,Peso Pluma,1,2023,5,26,324,14,95053634,13,110,8,2,60,122,,Major,78,70,81,57,0,10,5,https://i.scdn.co/image/ab67616d0000b27310c8a001a18fd9f1b3552a9d
+Danza Kuduro,"Don Omar, Lucenzo",2,2010,1,1,17138,37,1279434863,119,81,974,1,503,130,,Major,47,86,92,8,0,5,24,https://i.scdn.co/image/ab67616d0000b2734640a26eb27649006be29a94
+Jimmy Cooks (feat. 21 Savage),"Drake, 21 Savage",2,2022,6,17,5871,27,618885532,81,121,58,1,34,163,,Major,54,40,67,0,0,9,17,https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37
+Ghost,Justin Bieber,1,2021,3,19,5866,24,1167330737,107,38,95,0,,154,D,Major,61,41,74,21,0,40,6,https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431
+Under The Influence,Chris Brown,1,2019,10,4,3859,26,929964809,133,181,3,0,,117,A,Minor,73,31,69,6,0,11,4,https://i.scdn.co/image/ab67616d0000b2739a494f7d8909a6cc4ceb74ac
+Gasolina,Daddy Yankee,1,2004,7,13,6457,18,657723613,98,95,453,0,454,96,,Major,86,74,80,33,0,8,6,https://i.scdn.co/image/ab67616d0000b2736bdcdf82ecce36bff808a40c
+Save Your Tears,The Weeknd,1,2020,3,20,12688,13,1591223784,197,115,112,0,200,118,,Major,68,61,82,2,0,50,3,https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36
+When I Was Your Man,Bruno Mars,1,2012,12,5,2420,11,1661187319,0,0,806,0,0,145,,Major,60,43,27,94,0,14,4,https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46
+SNAP,Rosa Linn,1,2022,3,19,3202,18,726307468,148,80,226,24,0,170,,Major,56,53,64,11,0,45,6,https://i.scdn.co/image/ab67616d0000b2731391b1fdb63da53e5b112224
+Night Changes,One Direction,1,2014,11,17,7124,18,1131090940,60,20,2,0,,120,G#,Major,67,40,52,86,0,12,4,https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4
+Fin de Semana,"Oscar Maydon, Junior H",2,2023,1,13,592,14,307370144,11,84,6,1,30,98,,Major,70,37,54,6,0,9,8,https://i.scdn.co/image/ab67616d0000b2739b7e1ea3815a172019bc5e56
+Circles,Post Malone,1,2019,8,30,19664,16,2132335812,391,73,633,3,37,120,,Major,70,59,75,24,0,9,4,https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02
+Have You Ever Seen The Rain?,Creedence Clearwater Revival,1,1968,7,1,15890,14,1145727611,71,37,653,0,167,116,,Major,74,76,70,7,0,13,3,https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91
+Unstoppable,Sia,1,2016,1,21,7681,13,939844851,119,66,"1,145",2,,174,A,Major,47,27,78,11,0,10,8,https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837
+MIENTRAS ME CURO DEL CORA,Karol G,1,2023,2,24,1020,35,206399629,15,26,30,6,0,80,,Major,52,57,48,86,0,15,39,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+Shivers,Ed Sheeran,1,2021,9,9,10147,30,1302184087,234,71,543,18,,141,D,Major,79,82,86,28,0,4,9,https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2
+No Se Va,Grupo Frontera,1,2022,4,28,924,18,404887295,17,80,22,9,38,173,,Major,59,69,53,12,0,23,3,https://i.scdn.co/image/ab67616d0000b273042b5cc9a1a0a97cfc005ee8
+Set Me Free Pt.2,Jimin,1,2023,3,17,340,13,168448603,4,71,16,1,9,132,,Minor,59,56,82,12,0,12,6,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
+Shut Down,BLACKPINK,1,2022,9,16,1524,17,482175240,53,120,62,0,2,110,,Major,82,67,69,0,0,18,4,https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406
+Save Your Tears (with Ariana Grande) (Remix),"Ariana Grande, The Weeknd",2,2020,3,20,9161,5,1221813483,240,98,468,3,10,118,,Major,65,63,79,3,0,10,3,Not Found
+Midnight Rain,Taylor Swift,1,2022,10,21,2612,4,433356509,19,29,21,0,0,140,,Major,64,18,37,72,0,12,7,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+Gangsta's Paradise,"Coolio, L.V.",2,1995,7,11,10624,17,1357608774,21,0,386,0,,80,G#,Major,63,40,61,9,0,56,6,https://i.scdn.co/image/ab67616d0000b273c31d3c870a3dbaf7b53186cc
+The Hills,The Weeknd,1,2015,5,27,25744,4,1947371785,122,94,"1,992",0,18,136,,Minor,36,12,57,9,0,14,8,https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b
+Low,SZA,1,2022,12,9,1911,0,272377463,23,71,14,0,9,145,,Minor,70,34,55,43,0,16,6,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1
+Tormenta (feat. Bad Bunny),"Gorillaz, Bad Bunny",2,2023,2,24,1529,0,149778242,32,18,39,2,0,95,,Major,64,30,77,46,0,38,6,https://i.scdn.co/image/ab67616d0000b2734b0ddebba0d5b34f2a2f07a4
+Monotonï¿½,"Ozuna, Shakira",2,2022,10,19,3645,15,380726517,118,34,150,4,19,132,,Minor,87,82,70,42,0,21,5,Not Found
+Vista Al Mar,Quevedo,1,2022,9,8,1769,34,362361576,16,19,21,3,4,105,,Minor,76,49,56,80,12,10,13,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+Born With A Beer In My Hand,Morgan Wallen,1,2023,3,3,203,0,34450974,5,9,0,0,0,148,,Major,53,61,81,5,0,36,4,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+Devil Donï¿½ï¿½ï¿½,Morgan Wallen,1,2023,3,3,166,0,32526947,2,10,0,0,0,125,,Major,53,32,66,38,0,9,3,Not Found
+I'm Not Here To Make Friends,"Sam Smith, Calvin Harris, Jessie Reyez",3,2023,1,27,1890,0,103787664,86,1,49,0,9,115,,Major,70,84,90,17,0,41,6,Not Found
+VIBE (feat. Jimin of BTS),"TAEYANG, Jimin",2,2023,1,13,415,2,152850295,15,40,21,1,15,100,,Major,79,60,68,7,0,26,4,https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328
+Calm Down,Rï¿½ï,1,2022,2,9,4013,10,445763624,107,44,750,22,,107,B,Major,81,82,78,38,0,12,4,Not Found
+Space Song,Beach House,1,2015,1,1,17852,4,789753877,69,76,335,0,,147,,Minor,51,62,79,22,13,14,3,https://i.scdn.co/image/ab67616d0000b2739b7190e673e46271b2754aab
+Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],"BTS, Jung Kook, FIFA Sound",3,2022,11,20,889,20,323358833,11,78,35,0,21,115,,Major,71,34,88,16,0,44,4,Not Found
+One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",2,2017,6,2,27705,10,1897517891,537,122,"2,726",6,,124,A,Minor,79,59,86,4,0,8,11,https://i.scdn.co/image/ab67616d0000b273d09f96d82310d4d77c14c108
+Pink Venom,BLACKPINK,1,2022,8,19,1963,16,551305895,57,119,77,1,13,90,,Major,80,71,69,2,0,27,10,https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406
+Eu Gosto Assim - Ao Vivo,"Gustavo Mioto, Mari Fernandez",2,2022,9,16,1473,4,222612678,27,64,66,1,4,154,,Major,64,61,91,15,0,72,4,https://i.scdn.co/image/ab67616d0000b27319bb2fb697a42c1084d71f6c
+INDUSTRY BABY (feat. Jack Harlow),"Jack Harlow, Lil Nas X",2,2021,7,23,13315,0,1814349763,300,47,690,0,,150,D#,Minor,74,89,70,2,0,5,6,Not Found
+PUNTO 40,"Baby Rasta, Rauw Alejandro",2,2022,9,22,3006,12,304079786,54,32,66,2,0,107,,Major,87,20,83,0,4,31,9,Not Found
+Bad Habits,Ed Sheeran,1,2020,9,3,12755,8,1555511105,344,97,945,15,,126,B,Minor,81,59,90,5,0,36,3,https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2
+Woman,Doja Cat,1,2021,6,25,9424,0,1329090101,202,50,463,4,,108,F,Minor,82,88,76,9,0,12,9,https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a
+"Kesariya (From ""Brahmastra"")","Pritam, Arijit Singh, Amitabh Bhattacharya",3,2022,7,17,292,6,366599607,26,98,4,0,0,94,,Major,58,44,57,57,0,10,3,Not Found
+Payphone,"Maroon 5, Wiz Khalifa",2,2012,1,1,14143,4,1479264469,56,38,"1,891",1,,110,E,Major,74,51,74,2,0,29,4,https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084
+All I Want for Christmas Is You,Mariah Carey,1,1994,10,28,25653,0,1449779435,387,132,"2,094",0,,150,G,Major,34,33,63,16,0,7,4,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+Last Christmas,Wham!,1,1984,1,1,22153,0,1159176109,274,111,"1,302",0,,107,B,Minor,74,88,65,28,0,46,3,https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d
+Rockin' Around The Christmas Tree,Brenda Lee,1,1958,1,1,14994,0,769213520,191,168,206,0,,140,G#,Major,70,85,41,71,0,45,5,https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3
+Jingle Bell Rock,Bobby Helms,1,1957,1,1,10326,0,741301563,165,99,104,0,,119,D,Major,74,78,37,84,0,6,3,https://i.scdn.co/image/ab67616d0000b273fd56f3c7a294f5cfe51c7b17
+Santa Tell Me,Ariana Grande,1,2013,12,13,9408,0,834129063,231,106,439,0,,133,G,Major,46,53,63,5,0,30,18,https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c
+Snowman,Sia,1,2017,1,1,5140,0,690104769,85,110,500,0,,105,C#,Major,72,33,51,48,0,9,3,https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8
+A Holly Jolly Christmas - Single Version,Burl Ives,1,1952,1,1,7930,0,395591396,108,120,73,0,0,140,,Major,67,81,36,64,0,15,3,https://i.scdn.co/image/ab67616d0000b273b9b921f8a3b8f0b20f73cb98
+Do They Know It's Christmas? - 1984 Version,Band Aid,1,1984,11,25,14169,0,481697415,209,30,449,0,0,115,,Major,60,23,57,0,2,27,3,https://i.scdn.co/image/ab67616d0000b273d549b09f0264901929eaa6e8
+Special,SZA,1,2022,12,9,906,0,88092256,6,21,3,0,0,76,,Major,60,19,20,78,0,11,5,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1
+Merry Christmas,"Ed Sheeran, Elton John",2,2017,11,10,2209,0,135723538,72,90,141,0,0,114,,Major,59,60,94,24,0,10,4,https://i.scdn.co/image/ab67616d0000b273d8db7e7b7d4c1e90cd18ca3a
+My Only Wish (This Year),Britney Spears,1,2000,11,7,6952,0,261116938,115,53,286,0,0,147,,Major,67,69,72,17,0,19,3,https://i.scdn.co/image/ab67616d0000b27316ed688a08ecd351560f4566
+ýýýabcdefu,Gayle,1,2021,8,13,7215,0,1007612429,170,12,575,18,,122,E,Major,70,42,54,30,0,37,5,Not Found
+Sacrifice,The Weeknd,1,2022,1,7,4440,0,326792833,81,77,133,0,,122,G,Major,70,91,79,3,0,7,10,https://i.scdn.co/image/ab67616d0000b2731c7942eac1aece801758fccf
+Out of Time,The Weeknd,1,2022,1,7,3711,0,339659802,49,88,62,0,,93,,Minor,65,82,74,27,0,32,5,https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d
+We Don't Talk About Bruno,"Adassa, Mauro Castillo, Stephanie Beatriz, Encanto - Cast, Rhenzy Feliz, Diane Guerrero, Carolina Gaitan",7,2021,11,19,2785,0,432719968,95,89,44,0,,206,,Minor,58,83,45,36,0,11,8,Not Found
+Pepas,Farruko,1,2021,6,24,14114,17,1309887447,252,109,965,20,,130,G,Major,76,44,77,1,0,13,3,https://i.scdn.co/image/ab67616d0000b2734239a6aa89738d8f798168ad
+Less Than Zero,The Weeknd,1,2022,1,7,2800,0,200660871,18,77,61,0,1,143,,Major,53,50,79,0,0,8,3,https://i.scdn.co/image/ab67616d0000b273b3a6d0134f197bce863369a6
+good 4 u,Olivia Rodrigo,1,2021,5,14,15563,6,1887039593,259,55,461,1,,166,F#,Minor,56,68,66,28,0,11,18,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a
+Need To Know,Doja Cat,1,2021,6,11,6672,0,1042568408,125,36,150,0,,130,C#,Major,66,19,61,30,0,9,7,https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a
+MONTERO (Call Me By Your Name),Lil Nas X,1,2020,9,18,12329,0,1735441776,275,19,738,0,,179,G#,Minor,61,76,51,30,0,38,15,https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd
+love nwantiti (ah ah ah),Ckay,1,2019,7,26,5669,2,726837877,74,0,262,14,,93,F,Minor,74,53,73,61,0,13,4,https://i.scdn.co/image/ab67616d0000b273405fdad252857e01dbced96a
+MONEY,Lisa,1,2021,9,10,2566,13,863625566,44,109,131,0,,140,C#,Minor,83,40,55,16,0,14,23,https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
+Happier Than Ever,Billie Eilish,1,2021,7,30,8476,0,1056760045,138,133,283,0,,65,,Major,31,31,24,76,0,14,4,https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e
+Moth To A Flame (with The Weeknd),"The Weeknd, Swedish House Mafia",2,2021,10,22,7495,17,611994237,114,172,284,2,,120,,Minor,56,16,67,0,0,11,4,Not Found
+traitor,"Juan Cruz Toledo, Huilen Toledo",2,2021,5,21,5257,6,1230855859,85,43,134,0,,176,D#,Major,29,12,33,68,0,12,5,Not Found
+Toxic,BoyWithUke,1,2021,9,10,1795,0,582981380,34,23,118,0,,180,G#,Minor,59,69,61,84,0,46,36,https://i.scdn.co/image/ab67616d0000b273ee07023115f822012390d2a0
+drivers license,Olivia Rodrigo,1,2021,1,8,12685,3,1858144199,185,61,485,0,,144,A#,Major,59,21,43,76,0,10,7,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a
+All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,1,2021,11,12,4635,5,583687007,50,49,30,1,2,93,,Major,63,21,52,28,0,9,3,https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d
+Love Nwantiti - Remix,"Ckay, AX'EL, Dj Yo!",3,2019,8,30,2696,0,540539717,42,2,57,0,,120,G#,Major,58,44,60,44,9,5,6,https://i.scdn.co/image/ab67616d0000b27339bb326b58346f99b8692745
+Every Angel is Terrifying,The Weeknd,1,2022,1,7,715,0,37307967,0,1,2,0,0,118,,Major,44,52,94,11,0,4,29,https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d
+Peaches (feat. Daniel Caesar & Giveon),"Justin Bieber, Daniel Caesar, Giveon",3,2021,3,19,14140,0,1445941661,231,52,612,6,,90,,Major,63,49,68,38,0,42,18,https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431
+Better Days (NEIKED x Mae Muller x Polo G),"NEIKED, Mae Muller, Polo G",3,2021,9,24,4091,0,421040617,105,2,73,13,1,110,,Minor,72,67,68,0,0,14,4,https://i.scdn.co/image/ab67616d0000b2736b742298f7f36717855c4caf
+Life Goes On,Oliver Tree,1,2020,7,17,2868,0,501541661,43,15,116,0,,80,,Major,70,57,49,19,0,12,8,https://i.scdn.co/image/ab67616d0000b2731c5a484110522f2b9c7038cc
+Dynamite,BTS,1,2020,8,21,8528,5,1692897992,239,163,583,0,,114,F#,Minor,75,74,77,1,0,9,10,https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5
+LA FAMA (with The Weeknd),"The Weeknd, ROSALï¿½",2,2021,11,11,4640,3,374706940,81,93,507,6,4,136,,Minor,77,82,30,95,0,13,5,Not Found
+Dos Oruguitas,Sebastian Yatra,1,2021,11,19,925,0,167076418,24,47,74,0,0,94,,Major,42,47,36,76,0,9,5,https://i.scdn.co/image/ab67616d0000b273e1ac646ed6f25125e2a77229
+Mood (feat. Iann Dior),"24kgoldn, Iann Dior",2,2020,7,24,12854,0,1699402402,237,27,636,0,,91,G,Minor,70,76,72,22,0,27,4,https://i.scdn.co/image/ab67616d0000b27384c53fa832dfa265192419c5
+DANCE CRIP,Trueno,1,2021,11,17,731,0,198883004,14,14,24,0,4,106,,Major,86,86,79,11,0,8,9,https://i.scdn.co/image/ab67616d0000b2732ccbe28be97225ae844bef55
+positions,Ariana Grande,1,2020,10,23,8207,0,1252563873,175,55,95,0,2,144,,Major,73,66,80,44,0,9,12,https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605
+HEARTBREAK ANNIVERSARY,Giveon,1,2020,2,21,5398,4,951637566,111,127,210,0,37,129,,Major,61,59,46,56,0,13,5,https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766
+Happier Than Ever - Edit,Billie Eilish,1,2021,7,28,1959,0,412795151,19,0,38,0,0,81,,Major,45,12,57,7,0,23,3,https://i.scdn.co/image/ab67616d0000b27331aa3ebe23f59778bff800c9
+Dance Monkey,Tones and I,1,2019,5,10,24529,0,2864791672,533,167,"3,595",6,,98,F#,Minor,82,54,59,69,0,18,10,https://i.scdn.co/image/ab67616d0000b273c6f7af36ecdc3ed6e0a1f169
+Arcade,Duncan Laurence,1,2019,3,7,6646,0,991336132,107,47,584,1,,72,A,Minor,45,27,33,82,0,14,4,https://i.scdn.co/image/ab67616d0000b273a954408e456d4d9d410f448b
+When Iï¿½ï¿½ï¿½m Gone (with Katy ,"Katy Perry, Alesso",2,2021,12,29,3270,0,226897599,89,21,65,0,0,125,,Major,69,70,89,4,0,49,3,Not Found
+The Joker And The Queen (feat. Taylor Swift),"Ed Sheeran, Taylor Swift",2,2022,2,11,1430,0,146789379,46,1,34,0,0,134,,Major,53,31,31,92,0,28,3,https://i.scdn.co/image/ab67616d0000b27389aff4625958eac8d16535c7
+Mount Everest,Labrinth,1,2019,6,21,5443,0,467727006,45,1,80,0,12,89,,Minor,46,43,43,23,8,8,22,https://i.scdn.co/image/ab67616d0000b273e4c03429788f0aff263a5fc6
+A Tu Merced,Bad Bunny,1,2020,2,29,4214,11,685071800,21,20,40,0,0,92,,Major,86,89,79,17,0,11,6,https://i.scdn.co/image/ab67616d0000b273548f7ec52da7313de0c5e4a0
+Mal Feito - Ao Vivo,"Marï¿½ï¿½lia Mendonï¿½ï¿½a, Hugo & G",2,2022,1,14,971,2,291709698,35,104,93,1,0,124,,Minor,73,68,83,55,0,90,7,Not Found
+"I'm Tired - From ""Euphoria"" An Original HBO Series",Labrinth,1,2022,2,4,1888,0,121913181,26,1,58,0,0,71,,Minor,28,26,20,19,0,30,3,Not Found
+DARARI,Treasure,1,2022,2,15,328,0,182978249,10,21,7,0,9,85,,Major,72,55,64,49,0,7,4,https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56
+Thinking with My Dick,"Kevin Gates, Juicy J",2,2013,7,16,1550,0,109091573,0,0,14,0,0,81,,Major,77,68,70,6,0,17,20,https://i.scdn.co/image/ab67616d0000b273648c824765ffe493d9947b62
+Bohemian Rhapsody - Remastered 2011,Queen,1,1975,10,31,40112,3,2197010679,321,162,"5,691",8,17,71,,Minor,41,23,40,27,0,30,5,https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a
+Somebody That I Used To Know,"Gotye, Kimbra",2,2011,1,1,42798,0,1457139296,217,136,"6,508",1,,129,,Major,86,75,52,54,0,10,4,https://i.scdn.co/image/ab67616d0000b273e1d47c00ddecbfb810c807ed
+Plan A,Paulo Londra,1,2022,3,23,1105,0,240661097,32,0,19,0,0,174,,Major,58,56,83,5,0,7,4,https://i.scdn.co/image/ab67616d0000b273ccccd9b321e9b4446ae22cc5
+Me Arrepentï¿,"Ak4:20, Cris Mj, Pailita",3,2022,3,30,273,2,118381354,12,2,4,0,0,92,,Major,86,91,79,29,0,60,16,https://i.scdn.co/image/ab67616d0000b273b0a3a7b69e470141becfdf8d
+Un Ratito,Bad Bunny,1,2022,5,6,1112,6,417230415,7,30,13,1,1,93,,Minor,79,22,55,31,0,12,5,https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72
+Yo No Soy Celoso,Bad Bunny,1,2022,5,6,1179,0,313113297,7,21,11,0,0,142,,Major,87,93,59,28,0,17,5,https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72
+Cooped Up (with Roddy Ricch),"Post Malone, Roddy Ricch",2,2022,5,12,2942,0,271666301,42,28,43,0,0,125,,Major,50,39,78,4,0,11,33,https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97
+"Paulo Londra: Bzrp Music Sessions, Vol. 23","Bizarrap, Paulo Londra",2,2022,4,25,928,0,164163229,19,0,7,0,0,96,,Major,61,32,90,25,0,10,9,https://i.scdn.co/image/ab67616d0000b27342f5c9660f46df77e7ab71be
+Daylight,Harry Styles,1,2022,5,20,2775,0,290833204,21,11,40,0,0,146,,Major,69,63,45,48,0,18,4,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+Satellite,Harry Styles,1,2022,5,20,3291,5,311482393,43,28,79,0,208,139,,Major,58,30,46,14,0,9,3,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+Numb,"Marshmello, Khalid",2,2022,6,10,3879,2,295307001,107,76,86,1,9,120,,Minor,91,63,77,12,1,10,5,https://i.scdn.co/image/ab67616d0000b2732ff34dbc50313f8cea7b5db5
+Boyfriends,Harry Styles,1,2022,5,20,1517,0,137070925,26,2,30,0,0,118,,Major,42,32,20,94,0,11,4,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+Tak Ingin Usai,Keisya Levronka,1,2022,5,13,220,4,184807630,16,5,0,0,6,130,,Major,49,14,40,82,0,11,3,https://i.scdn.co/image/ab67616d0000b2738fa475b368164ab5eebe1a8d
+SNAP,Rosa Linn,1,2022,3,19,1818,0,711366595,3,0,63,0,353,170,,Major,56,52,64,11,0,45,7,https://i.scdn.co/image/ab67616d0000b2731391b1fdb63da53e5b112224
+Bad Decisions (with BTS & Snoop Dogg),"Snoop Dogg, BTS, Benny Blanco",3,2022,8,5,1456,0,219196651,53,2,33,0,0,120,,Major,77,94,87,2,0,23,12,https://i.scdn.co/image/ab67616d0000b2738c47a33a55c6d23cc9d2cf3f
+Caile,Luar La L,1,2020,12,18,1494,2,273914335,17,12,15,0,0,122,,Major,70,46,76,30,0,9,45,https://i.scdn.co/image/ab67616d0000b27305c2cc3e87e9aa15d9db3dd9
+Siempre Pendientes,"Peso Pluma, Luis R Conriquez",2,2022,8,15,685,5,295152154,15,79,4,2,0,136,,Major,77,71,75,33,1,13,4,https://i.scdn.co/image/ab67616d0000b273093a2563368d844b2a91306f
+Hold Me Closer,"Elton John, Britney Spears",2,2017,11,10,4967,0,284216603,165,10,177,4,73,126,,Major,67,49,77,11,0,19,11,https://i.scdn.co/image/ab67616d0000b2735d872e7b0c1ba964541f07e8
+After LIKE,IVE,1,2022,8,22,767,12,265548837,20,129,11,0,12,125,,Major,68,80,92,10,0,9,12,https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5
+B.O.T.A. (Baddest Of Them All) - Edit,"Interplanetary Criminal, Eliza Rose",2,2022,6,15,5153,6,244585109,102,53,113,12,0,137,,Major,74,71,89,24,61,15,5,Not Found
+I Really Want to Stay at Your House,"Rosa Walton, Hallie Coggins",2,2020,12,18,668,1,140430339,0,0,31,0,,125,D#,Minor,49,13,74,0,0,9,4,https://i.scdn.co/image/ab67616d0000b273a91a5b301baac1f46e6f30eb
+Labyrinth,Taylor Swift,1,2022,10,21,1597,0,187339835,6,3,15,0,0,110,,Major,48,15,31,80,22,12,4,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+Sweet Nothing,Taylor Swift,1,2022,10,21,1747,0,186104310,9,6,13,0,2,177,,Major,34,39,16,97,0,12,5,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
